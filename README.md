@@ -1,2 +1,2 @@
 # moneyReminder
-<a href="https://besvi.github.io/moneyReminder/reminder.html">Vi you need don't forget</a>
+<a href="https://besvi.github.io/moneyReminder/reminder.html">vi you nerd don't forget</a>
